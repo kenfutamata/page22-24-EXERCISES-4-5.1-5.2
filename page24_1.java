@@ -20,6 +20,7 @@ public class page24_1 {
         page24_2 j2 = new page24_2(num1, num2, select);
         j1.ifSelect(); //please commemt this line if you want to use the if else encapsulation
         j2.switchSelect(); //please comment this line if you want to use the switch statement
+        //please use only ONE FUNCTION CALL
 
     }
 }
